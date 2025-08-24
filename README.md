@@ -24,14 +24,6 @@ It covers database design, dataset creation, data cleaning, exploratory analysis
 
 ---
 
-## 📂 Repository Contents  
-- `schema.sql` → Database & table creation  
-- `inserts.sql` → Dataset insert statements  
-- `queries.sql` → Advanced SQL questions & answers  
-- `insights.md` → Final insights & recommendations  
-
----
-
 ## 📈 Example Insights  
 - **Electronics & Clothing** generate the most revenue.  
 - **Top 20% of customers drive ~80% of sales** (Pareto principle).  
